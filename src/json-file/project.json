@@ -1,0 +1,26 @@
+[
+    {
+        "project" : "Replaci",
+        "Discription" : "HEllo this is project named replacii",
+        "image" : "/images/replaci.png",
+        "link" : "https://replaci.com/landing"
+    },
+    {
+        "project" : "Replaci2",
+        "Discription" : "HEllo this is project named replacii 2",
+        "image" : "/images/replaci.png",
+        "link" : "https://replaci.com/landing"
+    },
+    {
+        "project" : "Replaci3",
+        "Discription" : "HEllo this is project named replacii 3",
+        "image" : "/images/replaci.png",
+        "link" : "https://replaci.com/landing"
+    },
+    {
+        "project" : "Replaci4",
+        "Discription" : "HEllo this is project named replacii 4",
+        "image" : "/images/replaci.png",
+        "link" : "https://replaci.com/landing"
+    }
+]

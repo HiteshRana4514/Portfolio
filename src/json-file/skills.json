@@ -1,0 +1,26 @@
+[
+    {
+        "skill" : "HTML",
+        "description" : "To build websites",
+        "model" : "/models/source/html-logo/scene.gltf",
+        "scale" : [100, 100, 100]
+    },
+    {
+        "skill" : "CSS",
+        "description" : "To build websites Styles",
+        "model" : "/models/source/css-logo/scene.gltf",
+        "scale" : [0.5, 0.5, 0.5]
+    },
+    {
+        "skill" : "React",
+        "description" : "To build websites SAP",
+        "model" : "/models/source/react-logo.glb",
+        "scale" : [0.7, 0.7, 0.7]
+    },
+    {
+        "skill" : "Three JS",
+        "description" : "To build websites in 3d",
+        "model" : "/models/source/threejs-logo.glb",
+        "scale" : [0.03, 0.03, 0.03]
+    }
+]
